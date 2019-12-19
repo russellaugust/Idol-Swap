@@ -103,12 +103,8 @@ def parse_arguments():
 		parser.print_help()
 
 
-
 def main ():
 	parse_arguments()
-	#logging("hello")
-
-
 
 if __name__== "__main__":
 	main()
