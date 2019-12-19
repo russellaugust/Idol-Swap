@@ -8,7 +8,7 @@ from tkinter import *
 from tkinter import ttk, messagebox, filedialog, simpledialog
 import time, datetime, os
 import sys
-#xxxx
+
 
 
 class idol_swap_GUI:
